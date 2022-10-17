@@ -1,0 +1,15 @@
+{
+    "name": "ofx2json",
+    "version": "1.0.0",
+    "description": "Conversão de arquivos OFX para arquivos JSON",
+    "main": "ofx2json.js",
+    "scripts": {
+      "test": "node ofx2json.js"
+    },
+    "dependencies": {
+      "ofx-convertjs": "^1.0.7",
+      "fs": "0.0.1-security"
+    },
+    "author": "Rodrigo Messias Barros",
+    "license": "MIT"
+  }
